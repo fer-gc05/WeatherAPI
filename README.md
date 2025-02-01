@@ -207,3 +207,4 @@ REDIS_PORT=6379
 
 - Desarrollado por [Fernando Gil](https://github.com/fer-gc05)
 - Basado en el [reto Weather API de roadmap](https://roadmap.sh/projects/weather-api-wrapper-service).
+- Solucion del reto [Solucion.](https://roadmap.sh/projects/weather-api-wrapper-service/solutions?u=679cd5db31e842a9fccf7fb0)
