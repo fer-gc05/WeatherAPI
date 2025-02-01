@@ -91,8 +91,8 @@ Si se exceden las 60 solicitudes por minuto, se devolverá:
 1. Clonar repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/api-tiempo.git
-cd api-tiempo
+git clone https://github.com/fer-gc05/WeatherAPI.git
+cd WeatherAPI
 ```
 
 2. Instalar dependencias:
